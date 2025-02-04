@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vitor Binhotti 😁
+## Bem-vindo(a) ao perfil do Vitor Binhotti 😎
 
  <div>
    <a href="https://github.com/Binhotti">
