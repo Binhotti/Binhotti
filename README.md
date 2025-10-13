@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Context API, PHP and Redux**
 
-- 👨‍💻 All of my projects are available at [https://binhotti.github.io/projeto-meu-site/](https://binhotti.github.io/projeto-meu-site/)
+- 👨‍💻 Some of my projects are available at [https://binhotti.github.io/projeto-meu-site/](https://binhotti.github.io/projeto-meu-site/)
 
 - 📫 How to reach me **vitorbinhotti@gmail.com**
 
