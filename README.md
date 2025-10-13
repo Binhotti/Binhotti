@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://binhotti.github.io/projeto-meu-site/](https://binhotti.github.io/projeto-meu-site/)
 
-- 📫 How to reach me **vitorbinhotti**
+- 📫 How to reach me **vitorbinhotti@gmail.com**
 
 - 📄 Know about my experiences [HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT and PHP]
 
